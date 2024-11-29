@@ -110,3 +110,8 @@ a {
 .footer-logo .logo-part{
     color: #f4f4fd;
 }
+.footer-text{
+    line-height: 1.5;
+    color: #f4f4fd;
+    letter-spacing: 0.02em;
+}
